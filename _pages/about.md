@@ -1,50 +1,36 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# About me
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Postdoc researcher in nonlinear dynamics and computational neuroscience. 
+Currently working at the [Dynamical Systems Biology Lab](https://www.upf.edu/web/dsb) from Universitat Pompeu Fabra as part of the [Neurotwin consortium](https://www.neurotwin.eu). 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+# Interests
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- Computational neuroscience
+- Nonlinear and stochastic dynamics
+- Synchronization
+- Complex systems
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# Publications
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- (preprint) P. Clusella, G. Deco, M. L. Kringelbach, G. Ruffini, and J. Garcia-Ojalvo *Complex spatiotemporal oscillations emerge from transverse instabilities in large-scale brain networks*,  bioRxiv 2022.12.02.518809 (2022) [link](https://www.biorxiv.org/content/10.1101/2022.12.02.518809v1) [pdf](https://www.biorxiv.org/content/10.1101/2022.12.02.518809v1.full.pdf)
+- (preprint) P. Clusella and E. Montbrió *Regular and sparse neuronal synchronization are described by identical mean field dynamics*, arXiv:2208.05515 (2022) [link](https://arxiv.org/abs/2208.05515) [pdf](https://arxiv.org/pdf/2208.05515)
+- P. Clusella, E. Köksal-Ersöz, J. Garcia-Ojalvo and G. Ruﬃni *Comparison between an exact and a heuristic neural mass model with second order synapses*, Biol. Cybern. (2022) [link](https://link.springer.com/article/10.1007/s00422-022-00952-7) [pdf](https://github.com/pclus/pclus.github.io/files/clusella2022b)
+- P. Clusella, B. Pietras, and E. Montbrió *Kuramoto model for populations of quadratic integrate-and-ﬁre neurons with chemical and electrical coupling*, Chaos **32** 013105 (2022) [link](https://aip.scitation.org/doi/10.1063/5.0075285) [pdf](https://github.com/pclus/pclus.github.io/files/clusella2022)
+- P. Clusella and R. Pastor-Satorras *Phase transitions on a class of generalized Vicsek-like models of collective motion*, Chaos: An Interdisciplinary Journal of Nonlinear Science **31** 043116 (2021) [link](https://aip.scitation.org/doi/10.1063/5.0046926) [pdf](https://github.com/pclus/pclus.github.io/files/clusella2021c)
+- P. Clusella, M. C. Miguel, and R. Pastor-Satorras *Amplitude death and restoration in networks of oscillators with random-walk diffusion*, Commun. Phys. **4** 13 (2021) [link](https://www.nature.com/articles/s42005-020-00516-w) [pdf](https://github.com/pclus/pclus.github.io/files/clusella2021b)
+- P. Clusella and A. Politi *Irregular collective dynamics in a Kuramoto-Daido system*, J. Phys. Complex. **2** 014002 (2021) [link](https://iopscience.iop.org/article/10.1088/2632-072X/abd3af) [pdf](https://github.com/pclus/pclus.github.io/files/clusella2021)
+- P. Clusella and A. Politi *Between phase and amplitude oscillators*, Phys. Rev. E 99, 062201 (2019) [link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062201) [pdf](https://github.com/pclus/pclus.github.io/files/clusella2019)
+- G. Cencetti, P. Clusella, and D. Fanelli *Pattern invariance for reaction-diﬀusion systems on complex networks*, Sci. Rep. **8** 16226 (2018) [link](https://www.nature.com/articles/s41598-018-34372-0) [pdf](https://github.com/pclus/pclus.github.io/files/cencetti2018)
+- P. Clusella and A. Politi *Noise-induced stabilization of collective dynamics*, Phys. Rev. E **95** 062221 (2017) [link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.062221) [pdf](https://github.com/pclus/pclus.github.io/files/clusella2017)
+- P. Clusella, P. Grassberger, F. J. Perez-Reche, and A. Politi *Immunization and targeted destruction of networks using explosive percolation*, Phys. Rev. Lett. **117** 208301 (2016) [link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.208301) [pdf](https://github.com/pclus/pclus.github.io/files/clusella2016b)
+- P. Clusella, A. Politi, and M. Rosenblum *A minimal model of self-consistent partial synchrony*, New J. Phys. **18** 093037 (2016) [link](https://iopscience.iop.org/article/10.1088/1367-2630/18/9/093037) [pdf](https://github.com/pclus/pclus.github.io/files/clusella2016)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
