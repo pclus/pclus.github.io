@@ -9,15 +9,24 @@ redirect_from:
 ---
 # About me
 
-Postdoc researcher in nonlinear dynamics and computational neuroscience. 
-Currently working at the [Dynamical Systems Biology Lab](https://www.upf.edu/web/dsb) from Universitat Pompeu Fabra as part of the [Neurotwin consortium](https://www.neurotwin.eu). 
+I am a postdoc researcher in nonlinear dynamics and computational neuroscience. 
+Currently I work at the [Dynamical Systems Biology Lab](https://www.upf.edu/web/dsb) from Universitat Pompeu Fabra as part of the [Neurotwin consortium](https://www.neurotwin.eu). 
+
+My research focusses on developing and validating mathematical models that capture the intricate and multiscale dynamics of the brain: from single neurons to neural masses and the whole brain.
 
 # Interests
 
 - Computational neuroscience
+- Mesoscale brain modeling
 - Nonlinear and stochastic dynamics
 - Synchronization
 - Complex systems
+
+# Previous positions
+
+From 2019 to 2021 I worked as a postdoc researcher at the Physics Department of Universitat Politècnica de Catalunya with [Romualdo Pastor-Satorras](http://www-fen.upc.es/~romu/)
+
+From 2015 to 2019 I developed my PhD research at University of Aberdeen and University of Florence as part of the [COSMOS](https://cordis.europa.eu/article/id/124485-next-generation-of-scientists-for-modelling-and-analysing-complex-systems) project. In 2019 I successfully defended my thesis "Collective behavior in complex oscillatory systems", supervised by [Antonio Politi](https://scholar.google.com/citations?user=K_rUMrQAAAAJ&hl=en) and [Roberto Livi](https://scholar.google.com/citations?user=A6MF588AAAAJ&hl=it).
 
 # Publications
 
