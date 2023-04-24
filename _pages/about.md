@@ -30,7 +30,7 @@ From 2015 to 2019 I developed my PhD research at University of Aberdeen and Univ
 
 # Publications
 
-- (preprint) P. Clusella, G. Deco, M. L. Kringelbach, G. Ruffini, and J. Garcia-Ojalvo *Complex spatiotemporal oscillations emerge from transverse instabilities in large-scale brain networks*,  bioRxiv 2022.12.02.518809 (2022) [link](https://www.biorxiv.org/content/10.1101/2022.12.02.518809v1) [pdf](https://www.biorxiv.org/content/10.1101/2022.12.02.518809v1.full.pdf)
+- P. Clusella, G. Deco, M. L. Kringelbach, G. Ruffini, and J. Garcia-Ojalvo *Complex spatiotemporal oscillations emerge from transverse instabilities in large-scale brain networks*,   PLOS Computational Biology **19**(4) (2023) [link](https://doi.org/10.1371/journal.pcbi.1010781) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2023.pdf)
 - (preprint) P. Clusella and E. Montbrió *Regular and sparse neuronal synchronization are described by identical mean field dynamics*, arXiv:2208.05515 (2022) [link](https://arxiv.org/abs/2208.05515) [pdf](https://arxiv.org/pdf/2208.05515)
 - P. Clusella, E. Köksal-Ersöz, J. Garcia-Ojalvo and G. Ruﬃni *Comparison between an exact and a heuristic neural mass model with second order synapses*, Biol. Cybern. (2022) [link](https://link.springer.com/article/10.1007/s00422-022-00952-7) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2022b.pdf)
 - P. Clusella, B. Pietras, and E. Montbrió *Kuramoto model for populations of quadratic integrate-and-ﬁre neurons with chemical and electrical coupling*, Chaos **32** 013105 (2022) [link](https://aip.scitation.org/doi/10.1063/5.0075285) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2022.pdf)
