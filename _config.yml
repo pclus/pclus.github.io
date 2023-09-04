@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pau Clusella"
 title_separator          : "-"
 name                     : &name "Pau Clusella"
-description              : &description "Postdoc researcher in nonlinear dynamics and computational neuroscience"
+description              : &description "Lecturer in nonlinear dynamics and computational neuroscience"
 url                      : "https://pclus.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pclus/pclus.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Pau Clusella"
   avatar           : "profile.png"
-  bio              : "Postdoc researcher in nonlinear dynamics and computational neuroscience"
-  location         : "Universitat Pompeu Fabra, Barcelona"
+  bio              : "Lecturer at the Department of Mathematics"
+  location         : "Universitat Politècnica de Catalunya, Barcelona"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.es/citations?user=D9768cYAAAAJ&hl=ca"
