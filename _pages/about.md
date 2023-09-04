@@ -9,8 +9,7 @@ redirect_from:
 ---
 # About me
 
-I am a postdoc researcher in nonlinear dynamics and computational neuroscience. 
-Currently I work at the [Dynamical Systems Biology Lab](https://www.upf.edu/web/dsb) from Universitat Pompeu Fabra as part of the [Neurotwin consortium](https://www.neurotwin.eu). 
+I am a Lecturer at the [Department of Mathematics](https://mat.upc.edu/en) of [Universitat Politècnica de Catalunya](https://www.upc.edu/ca). 
 
 My research focusses on developing and validating mathematical models that capture the intricate and multiscale dynamics of the brain: from single neurons to neural masses and the whole brain.
 
@@ -23,6 +22,8 @@ My research focusses on developing and validating mathematical models that captu
 - Complex systems
 
 # Previous positions
+
+From 2021 to 2022 I worked as a postdoc researcher at the [Dynamical Systems Biology Lab](https://www.upf.edu/web/dsb) from Universitat Pompeu Fabra as part of the [Neurotwin consortium](https://www.neurotwin.eu). 
 
 From 2019 to 2021 I worked as a postdoc researcher at the Physics Department of Universitat Politècnica de Catalunya with [Romualdo Pastor-Satorras](http://www-fen.upc.es/~romu/).
 
