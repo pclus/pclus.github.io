@@ -9,7 +9,8 @@ redirect_from:
 ---
 # About me
 
-I am a Lecturer at the [Department of Mathematics](https://mat.upc.edu/en) of [Universitat Politècnica de Catalunya](https://www.upc.edu/ca). 
+I am an Assitant Professor (Lecturer) at the [Department of Mathematics](https://mat.upc.edu/en) of [Universitat Politècnica de Catalunya](https://www.upc.edu/ca), and a researcher of the 
+[Dynamical Systems Group](https://dynamicalsystems.upc.edu/en).
 
 My research focusses on developing and validating mathematical models that capture the intricate and multiscale dynamics of the brain: from single neurons to neural masses and the whole brain.
 
@@ -31,9 +32,9 @@ From 2015 to 2019 I developed my PhD research at University of Aberdeen and Univ
 
 # Publications
 
+- P. Clusella, L. Manubens-Gil, J. Garcia-Ojalvo, and M. Dierssen *Modeling the impact of neuromorphological alterations in Down syndrome on fast neural oscillations*, PLoS Computational Biology **20**(7) (2024) [link](https://doi.org/10.1371/journal.pcbi.1012259) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2024b.pdf)
 - P. Clusella and E. Montbrió *Exact low-dimensional description for fast neural oscillations with low firing rates*, Phys. Rev. E **109**, 014229 (2024) [link](https://doi.org/10.1103/PhysRevE.109.014229) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2024.pdf)
-- *(preprint)* P. Clusella, L. Manubens-Gil, J. Garcia-Ojalvo, and M. Dierssen *Modeling the impact of neuromorphological alterations in Down syndrome on fast neural oscillations* bioRxiv 2024.01.13.575481 [link](https://doi.org/10.1101/2024.01.13.575481) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2024b.pdf)
-- P. Clusella, G. Deco, M. L. Kringelbach, G. Ruffini, and J. Garcia-Ojalvo *Complex spatiotemporal oscillations emerge from transverse instabilities in large-scale brain networks*,   PLOS Computational Biology **19**(4) (2023) [link](https://doi.org/10.1371/journal.pcbi.1010781) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2023.pdf)
+- P. Clusella, G. Deco, M. L. Kringelbach, G. Ruffini, and J. Garcia-Ojalvo *Complex spatiotemporal oscillations emerge from transverse instabilities in large-scale brain networks*,   PLoS Computational Biology **19**(4) (2023) [link](https://doi.org/10.1371/journal.pcbi.1010781) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2023.pdf)
 - P. Clusella, E. Köksal-Ersöz, J. Garcia-Ojalvo and G. Ruﬃni *Comparison between an exact and a heuristic neural mass model with second order synapses*, Biol. Cybern. (2022) [link](https://link.springer.com/article/10.1007/s00422-022-00952-7) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2022b.pdf)
 - P. Clusella, B. Pietras, and E. Montbrió *Kuramoto model for populations of quadratic integrate-and-ﬁre neurons with chemical and electrical coupling*, Chaos **32** 013105 (2022) [link](https://aip.scitation.org/doi/10.1063/5.0075285) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2022.pdf)
 - P. Clusella and R. Pastor-Satorras *Phase transitions on a class of generalized Vicsek-like models of collective motion*, Chaos: An Interdisciplinary Journal of Nonlinear Science **31** 043116 (2021) [link](https://aip.scitation.org/doi/10.1063/5.0046926) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2021c.pdf)
