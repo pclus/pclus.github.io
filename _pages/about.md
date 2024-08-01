@@ -32,6 +32,7 @@ From 2015 to 2019 I developed my PhD research at University of Aberdeen and Univ
 
 # Publications
 
+- *(preprint)* P. Floriach, J. Garcia-Ojalvo, and P. Clusella "From chimeras to extensive chaos in networks of heterogeneous Kuramoto oscillator populations", arXiv:2407.20408 (2024) [link](https://arxiv.org/abs/2407.20408) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2024c.pdf)
 - P. Clusella, L. Manubens-Gil, J. Garcia-Ojalvo, and M. Dierssen *Modeling the impact of neuromorphological alterations in Down syndrome on fast neural oscillations*, PLoS Computational Biology **20**(7) (2024) [link](https://doi.org/10.1371/journal.pcbi.1012259) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2024b.pdf)
 - P. Clusella and E. Montbrió *Exact low-dimensional description for fast neural oscillations with low firing rates*, Phys. Rev. E **109**, 014229 (2024) [link](https://doi.org/10.1103/PhysRevE.109.014229) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2024.pdf)
 - P. Clusella, G. Deco, M. L. Kringelbach, G. Ruffini, and J. Garcia-Ojalvo *Complex spatiotemporal oscillations emerge from transverse instabilities in large-scale brain networks*,   PLoS Computational Biology **19**(4) (2023) [link](https://doi.org/10.1371/journal.pcbi.1010781) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2023.pdf)
