@@ -32,7 +32,7 @@ From 2015 to 2019 I developed my PhD research at University of Aberdeen and Univ
 
 # Publications
 
-- P. Floriach, J. Garcia-Ojalvo, and P. Clusella "From chimeras to extensive chaos in networks of heterogeneous Kuramoto oscillator populations", Chaos **35** 023115 (2025) [link](https://doi.org/10.1063/5.0243379) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/floriach2025.pdf)
+- P. Floriach, J. Garcia-Ojalvo, and P. Clusella *From chimeras to extensive chaos in networks of heterogeneous Kuramoto oscillator populations*, Chaos **35** 023115 (2025) [link](https://doi.org/10.1063/5.0243379) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/floriach2025.pdf)
 - B. Pietras, P. Clusella, and E. Montbrió *Low-dimensional model for adaptive networks of spiking neurons*, Phys. Rev. E **111** 014422 (2025) [link](https://doi.org/10.1103/PhysRevE.111.014422) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/pietras2025.pdf)
 - P. Clusella, L. Manubens-Gil, J. Garcia-Ojalvo, and M. Dierssen *Modeling the impact of neuromorphological alterations in Down syndrome on fast neural oscillations*, PLoS Computational Biology **20**(7) (2024) [link](https://doi.org/10.1371/journal.pcbi.1012259) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2024b.pdf)
 - P. Clusella and E. Montbrió *Exact low-dimensional description for fast neural oscillations with low firing rates*, Phys. Rev. E **109**, 014229 (2024) [link](https://doi.org/10.1103/PhysRevE.109.014229) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2024.pdf)
