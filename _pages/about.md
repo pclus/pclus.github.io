@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About me
 
-I am an Assitant Professor (Lecturer) at the [Department of Mathematics](https://mat.upc.edu/en) of [Universitat Politècnica de Catalunya](https://www.upc.edu/ca), and a researcher of the 
+I am an Assistant Professor (Lecturer) at the [Department of Mathematics](https://mat.upc.edu/en) of [Universitat Politècnica de Catalunya](https://www.upc.edu/ca), and a researcher of the 
 [Dynamical Systems Group](https://dynamicalsystems.upc.edu/en).
 
 My research focusses on developing and validating mathematical models that capture the intricate and multiscale dynamics of the brain: from single neurons to neural masses and the whole brain.
