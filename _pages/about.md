@@ -24,13 +24,13 @@ My research focusses on developing and validating mathematical models that captu
 
 # Previous positions
 
-From 2015 to 2019 I developed my PhD research at University of Aberdeen and University of Florence as part of the [COSMOS](https://cordis.europa.eu/article/id/124485-next-generation-of-scientists-for-modelling-and-analysing-complex-systems) project. In 2019 I successfully defended my thesis "Collective behavior in complex oscillatory systems", supervised by [Antonio Politi](https://scholar.google.com/citations?user=K_rUMrQAAAAJ&hl=en) and [Roberto Livi](https://scholar.google.com/citations?user=A6MF588AAAAJ&hl=it).
+From 2015 to 2019 I developed my PhD research at University of Aberdeen and University of Florence as part of the [COSMOS](https://cordis.europa.eu/article/id/124485-next-generation-of-scientists-for-modelling-and-analysing-complex-systems) project. In 2019 I successfully defended my thesis ["Collective behavior in complex oscillatory systems"](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2018_thesis.pdf), supervised by [Antonio Politi](https://scholar.google.com/citations?user=K_rUMrQAAAAJ&hl=en) and [Roberto Livi](https://scholar.google.com/citations?user=A6MF588AAAAJ&hl=it).
 
 From 2019 to 2021 I worked as a postdoc researcher at the Physics Department of Universitat Politècnica de Catalunya with [Romualdo Pastor-Satorras](http://www-fen.upc.es/~romu/).
 
 From 2021 to 2023 I worked as a postdoc researcher at the [Dynamical Systems Biology Lab](https://www.upf.edu/web/dsb) from Universitat Pompeu Fabra as part of the [Neurotwin consortium](https://www.neurotwin.eu). 
 
-In 2023 I joined the Department of Mathematics of Universitat Politècnica de Catalunya as an Assistant Professor (_Professor Lector_).
+In 2023 I joined the Department of Mathematics at Universitat Politècnica de Catalunya as an Assistant Professor (_Professor Lector_), where I transitioned to my current position in 2026.
 
 # Publications
 - P. Clusella *Symmetry breaking and high-dimensional chaos in sparse random networks of exact firing rate models* arXiv:2605.15872 (2026) [link](https://arxiv.org/abs/2605.15872) [pdf](https://github.com/pclus/pclus.github.io/raw/master/files/clusella2026.pdf).
